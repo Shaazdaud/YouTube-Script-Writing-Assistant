@@ -26,8 +26,8 @@ To run this application locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   https://github.com/Shaazdaud/YouTube-Script-Writing-Assistant.git
+   cd YouTube-Script-Writing-Assistant
    ```
 
 2. Install dependencies:
